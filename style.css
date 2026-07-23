@@ -288,3 +288,16 @@ h2 {
   font-style: italic;
   font-weight: 500;
 }
+
+/* Letter Page Image */
+
+.letter-image{
+    width:220px;
+    height:220px;
+    display:block;
+    margin:20px auto;
+    border-radius:50%;
+    object-fit:cover;
+    border:5px solid white;
+    box-shadow:0 10px 25px rgba(0,0,0,.25);
+}
